@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "first_name": "Sardor",
+        "last_name": "Safaraliyev",
+        "birth_date": "07052005",
+        "email": "uzblordsardorboy0705",
+        "username": "sardor05",
+        "password": "parol05"
+    },
+    {
+        "id": 2,
+        "first_name": "Diyor",
+        "last_name": "Turgunboyev",
+        "birth_date": "03-08-2005",
+        "email": "dd05@gmail.com",
+        "username": "diyorbek",
+        "password": "parol"
+    }
+]
